@@ -1,0 +1,3 @@
+https://dev.mrdbourke.com/tensorflow-deep-learning/
+
+https://github.com/mrdbourke/tensorflow-deep-learning#-00-tensorflow-fundamentals-exercises
